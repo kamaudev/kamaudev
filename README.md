@@ -30,6 +30,5 @@
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=kamaudev&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaudev&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamaudev&theme=radical&hide_border=true"/>
 
 
