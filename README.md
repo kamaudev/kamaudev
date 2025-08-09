@@ -28,7 +28,7 @@
 <p><a href="https://www.linkedin.com/in/kamau-imule/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="emblema linkedin"/></a>
 <a href="mailto:contato.kamaudev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a></p>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=kamaudev&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaudev&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+<p><img src="https://github-readme-stats.vercel.app/api?username=kamaudev&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaudev&layout=compact&langs_count=8&theme=radical&hide_border=true"/></p>
 
 
