@@ -2,13 +2,13 @@
 
 <h2>Sobre mim:</h2>
 <ul>
-  <li>👩‍💻 Me chamo Kamau Imule, tenho 27 anos, sou uma pessoa transgênero e afrodescendente.</li>
+  <li>👩‍💻 Me chamo Kamau Imule, tenho 27 anos.</li>
   <li>💻 Desenvolvedor Full Stack em transição de carreira, com sólida experiência prévia de 6 anos na Engenharia Civil especializado em Fundações e Geotecnia.</li>
   <li>🚀 Graduando de Análise e Desenvolvimento de Sistemas e me especializando como Full Stack para unir front-end e back-end em projetos completos e funcionais.</li>
   <li>🌱 Atualmente estudando JavaScript, React e Node.js</li>
   <li>🎯 Meu objetivo com a tecnologia é criar soluções tecnológicas que realmente impactem a vida das pessoas. </li>
 </ul>
-<h2>Tecnologias:</h2>
+<h2>Tecnologias e Ferramentas:</h2>
 <p>Frontend</p>
 <p><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></p>
 <p>Backend</p>
